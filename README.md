@@ -36,7 +36,7 @@ password : admin
 
 * `/student` : List of Student 
 * `/student/add` : Register ( Create New Student ) 
-* `/student/edit/1` : Update the Student Details`
+* `/student/edit/1` : Update the Student Details
 * `/student/delete/1` : Delete Student by `id`
 * `/student/view` : Enrolled Student List`
 
@@ -46,8 +46,8 @@ password : admin
 ### Course Module
 * `/course` : List of Course
 * `/course/add` : Register ( Create New Course ) 
-* `/course/edit/1` : Update the Course Details`
-* `/student/delete/1` : Delete Course by id`
+* `/course/edit/1` : Update the Course Details
+* `/student/delete/1` : Delete Course by `id`
 
 
 

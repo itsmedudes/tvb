@@ -21,7 +21,9 @@ password : admin
 ## API Root Endpoint
 
 `http://localhost/tvb/admin`
+
 `http://localhost/tvb/admin/student`
+
 `http://localhost/tvb/admin/course`
 
 

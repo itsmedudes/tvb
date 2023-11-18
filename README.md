@@ -9,7 +9,7 @@ Perform a CRUD Operation for student and course information in a table with OOPs
 
 run this command in your pc
 ```bash
-  git clone https://github.com/itsmedudes/adobe.git
+  git clone https://github.com/itsmedudes/tvb.git
 ```
 
 Before running the Xampp server, you should create the database name with course.

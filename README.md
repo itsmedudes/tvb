@@ -1,8 +1,8 @@
 # Assignment
 
 Perform a CRUD Operation for student and course information in a table with OOPs Concepts.
-•	Student fields (Student Name, Course Name, Address, Email, DOB, etc.)
-•	Course fields (Course Name, Course Description, etc.)
+*	Student fields (Student Name, Course Name, Address, Email, DOB, etc.)
+*	Course fields (Course Name, Course Description, etc.)
 
 
 ## Installation & Run

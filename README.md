@@ -15,10 +15,12 @@ run this command in your pc
 Before running the Xampp server, you should create the database name of `course`.
 Update, username and password as per your local database config.
 Admin Id Password
-id : `admin`
-password : `admin`
+Username: `admin`
+Password: `admin`
 
 ## API Root Endpoint
+
+`https://trendnation.online/tvb/admin`
 
 `http://localhost/tvb/admin`
 

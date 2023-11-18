@@ -12,11 +12,11 @@ run this command in your pc
   git clone https://github.com/itsmedudes/tvb.git
 ```
 
-Before running the Xampp server, you should create the database name with course.
+Before running the Xampp server, you should create the database name of `course`.
 Update, username and password as per your local database config.
 Admin Id Password
-id : admin
-password : admin
+id : `admin`
+password : `admin`
 
 ## API Root Endpoint
 
